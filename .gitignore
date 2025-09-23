@@ -27,3 +27,8 @@ dist/
 
 # Python environment variables
 *.env
+
+venv/
+__pycache__/
+*.pyc
+*.pkl
